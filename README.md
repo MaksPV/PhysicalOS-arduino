@@ -3,7 +3,7 @@
 
 [Канал PhysicalOS в Телеграме](http://telete.in/PhysicalOS "Канал PhysicalOS в Телеграме")
 
-Автор: MaksPV [Телеграм](telete.in/Maksimushka "Телеграм") [ВКонтакте](http://vk.com/MaksPVi "ВКонтакте")
+Автор: MaksPV [Телеграм](https://telete.in/Maksimushka "Телеграм") [ВКонтакте](http://vk.com/MaksPVi "ВКонтакте")
 
 ## Схема подключения
 ![Иллюстрация к проекту](https://github.com/MaksPV/PhysicalOS-arduino/raw/master/scheme.jpg)
