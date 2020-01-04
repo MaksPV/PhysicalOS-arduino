@@ -5,6 +5,8 @@
 
 Автор: MaksPV [Телеграм](https://telete.in/Maksimushka "Телеграм") [ВКонтакте](http://vk.com/MaksPVi "ВКонтакте")
 
+![Иллюстрация к проекту](https://github.com/MaksPV/PhysicalOS-arduino/raw/master/Logo.png)
+
 ## Схема подключения
 ![Иллюстрация к проекту](https://github.com/MaksPV/PhysicalOS-arduino/raw/master/scheme.jpg)
 - Arduino Uno или ей подобные
