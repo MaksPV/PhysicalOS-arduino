@@ -2,6 +2,7 @@
 Однокнопочный калькулятор на ардуино
 
 [Канал PhysicalOS в Телеграме](http://telete.in/PhysicalOS "Канал PhysicalOS в Телеграме")
+
 Автор: MaksPV [Телеграм](telete.in/Maksimushka "Телеграм") [ВКонтакте](http://vk.com/MaksPVi "ВКонтакте")
 
 ## Схема подключения
